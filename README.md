@@ -122,15 +122,3 @@ The application includes comprehensive mock data:
 3. Run `npm start` to start the development server
 4. Open `http://localhost:3000` in your browser
 
-## 📝 License
-
-This project is created for educational purposes and demonstrates modern React development practices with Tailwind CSS.
-
-## 🤝 Contributing
-
-This is a demonstration project. Feel free to use it as a starting point for your own applications!
-
----
-
-Built with ❤️ using React and Tailwind CSS
-
